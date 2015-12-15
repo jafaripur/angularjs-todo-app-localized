@@ -1,0 +1,16 @@
+{
+    "HOME": "صفحه اصلی",
+    "ABOUT": "درباره",
+    "TODO_APPLICATION": "برنامه کارهای روزانه",
+    "LANGUAGE": "زبان",
+    "ENGLISH": "انگلیسی",
+    "PERSIAN": "فارسی",
+    "SUMMARY": "توضیحات",
+    "TITLE": "عنوان",
+    "NEW": "جدید",
+    "NEW_TODO": "کار جدید",
+    "CANCEL": "انصراف",
+    "SAVE": "ذخیره",
+    "SUMMARY_FIELD_IS_REQUIRED": "فیلد توضیحات اجباری می باشد",
+    "TITLE_FIELD_IS_REQUIRED": "فیلد عنوان اجباری می باشد"
+}

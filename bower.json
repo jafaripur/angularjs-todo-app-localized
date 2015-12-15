@@ -1,0 +1,41 @@
+{
+  "name": "app-nevis",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "~1.4.8",
+    "bootstrap-sass-official": "~3.3.6",
+    "angular-animate": "~1.4.8",
+    "angular-aria": "~1.4.8",
+    "angular-resource": "~1.4.8",
+    "angular-sanitize": "~1.4.8",
+    "angular-touch": "~1.4.8",
+    "font-awesome": "~4.5.0",
+    "bootstrap-rtl": "~3.3.4",
+    "angular-ui-router": "~0.2.15",
+    "angular-translate": "~2.8.1",
+    "angular-cookies": "~1.4.8",
+    "angular-translate-storage-cookie": "~2.8.1",
+    "angular-translate-storage-local": "~2.8.1",
+    "angular-translate-loader-static-files": "~2.8.1",
+    "angular-ui-router-anim-in-out": "~1.0.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.0"
+  },
+  "appPath": "app",
+  "moduleName": "todoAppLocalize",
+  "overrides": {
+    "bootstrap": {
+      "main": []
+    },
+    "bootstrap-rtl": {
+      "main": []
+    },
+    "angular-ui-router-anim-in-out": {
+      "main": [
+        "anim-in-out.js",
+        "scss/anim-in-out.scss"
+      ]
+    }
+  }
+}

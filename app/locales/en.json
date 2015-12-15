@@ -1,0 +1,16 @@
+{
+    "HOME": "Home",
+    "ABOUT": "About",
+    "TODO_APPLICATION": "Todo Application",
+    "LANGUAGE": "Language",
+    "ENGLISH": "English",
+    "PERSIAN": "Persian",
+    "SUMMARY": "Summary",
+    "TITLE": "Title",
+    "NEW": "New",
+    "NEW_TODO": "New Todo",
+    "CANCEL": "Cancel",
+    "SAVE": "Save",
+    "SUMMARY_FIELD_IS_REQUIRED": "Summary field is required",
+    "TITLE_FIELD_IS_REQUIRED": "Title field is required"
+}
